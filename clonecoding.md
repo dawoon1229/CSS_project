@@ -278,3 +278,9 @@ header #topImg {
     margin: 0px;
 }
 ```
+아래는 실행화면 이다.
+
+<img width="1069" alt="스크린샷 2024-04-19 121604" src="https://github.com/dawoon1229/CSS_project/assets/164113758/fff1084c-0dc1-4d32-be47-27410f8fd680">
+
+
+
